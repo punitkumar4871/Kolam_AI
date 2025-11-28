@@ -42,3 +42,4 @@ The platform is interactive and gamified — users can earn points, join competi
 </p>
 
 ### Created by Team SkyDivine : `Punit`, `Aamod`, `Apoorv` and `Vaibhav` 
+`LINK` : https://kolamai.vercel.app/
