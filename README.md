@@ -41,4 +41,4 @@ The platform is interactive and gamified — users can earn points, join competi
 	<b>🌺 Kolam AI &mdash; Where Tradition Meets Tomorrow 🌺</b>
 </p>
 
-<h3> Created by Team SkyDivine : `Punit`, `Aamod`, `Apoorv` and `Vaibhav` </h3>
+### Created by Team SkyDivine : `Punit`, `Aamod`, `Apoorv` and `Vaibhav` 
