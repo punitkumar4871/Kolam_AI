@@ -40,3 +40,6 @@ The platform is interactive and gamified — users can earn points, join competi
 <p align="center">
 	<b>🌺 Kolam AI &mdash; Where Tradition Meets Tomorrow 🌺</b>
 </p>
+
+### Created by Team SkyDivine : `Punit`, `Aamod`, `Apoorv` and `Vaibhav` 
+`LINK` : https://kolamai.vercel.app/
